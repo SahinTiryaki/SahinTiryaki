@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Şahin 👋
 
-<!--
-**SahinTiryaki/SahinTiryaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Deep Learning, Computer Vision, Reinforcement Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at computer engineering at Süleyman Demirel University (since 09.2019 )
+- 🌱 I’m currently learning  Anomaly detection, Computer vision, Reinforcement learning
+- ⚡ What i like to do: Playing basketball, Robotics, Learning  new things, Sea lover
+- 📫 How to reach me: tiryakisahin4@gmail.com
+- :blue_book: Kaggle acount: https://www.kaggle.com/sahintiryaki
+<div style = "width:100%;min-height:150px;text-align:center;">
+  <a href= "https://www.linkedin.com/in/sahin-tiryaki-95a76a1b1/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
