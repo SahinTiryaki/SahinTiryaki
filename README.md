@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning  Anomaly detection, Computer vision, Reinforcement learning
 - ⚡ What i like to do: Playing basketball, Robotics, Learning  new things, Sea lover
 - 📫 How to reach me: tiryakisahin4@gmail.com
-- :blue_book: Kaggle acount: https://www.kaggle.com/sahintiryaki
+- :blue_book: Kaggle account: https://www.kaggle.com/sahintiryaki
 <div style = "width:100%;min-height:150px;text-align:center;">
   <a href= "https://www.linkedin.com/in/sahin-tiryaki-95a76a1b1/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
