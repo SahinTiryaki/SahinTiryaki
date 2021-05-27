@@ -3,7 +3,7 @@
 
 
 - 🔭 I'm currently studying at computer engineering in Süleyman Demirel University (since 09.2019 )
-- 🌱 I’m currently learning  Anomaly detection, Computer vision, Reinforcement learning
+- 🌱 I’m currently learning  Computer vision, Reinforcement learning
 - ⚡ What i like to do: Playing basketball, Robotics, Learning  new things, Sea lover
 - 📫 How to reach me: tiryakisahin4@gmail.com
 - :blue_book: Kaggle account: https://www.kaggle.com/sahintiryaki
