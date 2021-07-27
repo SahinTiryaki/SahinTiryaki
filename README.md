@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I'm currently studying at computer engineering in Süleyman Demirel University (since 09.2019 )
+- 🔭 I'm currently studying  computer engineering at Süleyman Demirel University (since 09.2019 )
 - 🌱 I’m currently learning  Computer vision, Reinforcement learning
 - ⚡ What i like to do: Robotics, Learning  new things, Sea lover
 - 📫 How to reach me: tiryakisahin4@gmail.com
