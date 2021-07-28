@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning  Computer vision and Reinforcement learning  <br>
+- 🌱 I’m currently learning  Computer vision and NLP <br>
 - ⚡ What i like to do: Robotics, Learning  new things, Sea lover  <br>
 - 📫 How to reach me: tiryakisahin4@gmail.com  <br>
 - :blue_book: Kaggle account: https://www.kaggle.com/sahintiryaki  <br>
