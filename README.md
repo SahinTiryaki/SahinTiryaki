@@ -13,4 +13,3 @@
 
 </div> <br>
 
-![Sahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahinTiryaki&show_icons=true&theme=tokyonight)
