@@ -14,12 +14,4 @@
    <a href= "https://medium.com/@tiryakisahin4"> 
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-
-<h3> Languages and Tools: </h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,redis,docker,tensorflow,pytorch,flask,mysql,git,css,bootstrap,html,linux&theme=dark" />
-  </a>
-</p>
-
 </div> <br>
